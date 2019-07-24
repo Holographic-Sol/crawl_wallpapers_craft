@@ -1,1 +1,1 @@
-crawls Wallpapers Craft for EVERYTHING IN EVERY DIMENSION
+Crawls WallpapersCraft and downloads all images of a specified resolution by category.
